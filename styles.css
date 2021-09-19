@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(73, 73, 73);
+    color: white;
+   }
+
+h1 {
+    text-align: center;
+}
+
+.leftText {
+    width: 400px;
+    word-wrap: break-word;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+
