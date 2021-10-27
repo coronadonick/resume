@@ -19,3 +19,6 @@ h1 {
     width: auto;
   }
 
+img.roundedCorners {
+    border-radius: 50%
+}
