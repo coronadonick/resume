@@ -19,6 +19,36 @@ h1 {
     width: auto;
   }
 
+.centerText {
+    text-align: center;
+}
+
+.inlineList {
+    display: inline;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+    font-size: large;
+}
+
 img.roundedCorners {
     border-radius: 50%
 }
+
+a:link {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+a:hover {
+    color:yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
